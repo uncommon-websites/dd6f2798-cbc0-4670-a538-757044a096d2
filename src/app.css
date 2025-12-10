@@ -10,9 +10,9 @@
 	--color-foreground: #000000;
 	--color-muted: #666666;
 	--color-border: #e5e5e5;
-	--color-accent: oklch(0.606 0.25 292.717); /* Primary purple accent */
-	--color-primary-50: oklch(0.969 0.016 293.756);
-	--color-primary-100: oklch(0.943 0.029 294.588);
+	--color-accent: oklch(0.45 0.15 150); /* Primary dark green accent */
+	--color-primary-50: oklch(0.96 0.02 150);
+	--color-primary-100: oklch(0.92 0.04 150);
 	
 	/* Spacing */
 	--spacing-container: 1280px;

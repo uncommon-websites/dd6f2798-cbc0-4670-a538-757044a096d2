@@ -1,12 +1,12 @@
 <section class="pt-20 pb-12 overflow-hidden">
 	<div class="container-custom">
-		<div class="max-w-4xl mb-12">
-			<h1 class="text-4xl md:text-5xl lg:text-6xl font-medium tracking-tight mb-4">
+		<div class="mb-12 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-8">
+			<h1 class="text-4xl md:text-5xl lg:text-6xl font-medium tracking-tight max-w-3xl">
 				Unified multi-model inference with intelligent routing
 			</h1>
-			<p class="text-2xl md:text-3xl text-muted font-light">
-				Access 20+ AI models through one API. <span class="text-accent">Deploy anywhere, run everywhere.</span>
-			</p>
+			<a href="#contact" class="inline-flex items-center justify-center px-8 py-4 bg-accent text-white rounded-lg font-medium hover:opacity-90 transition-opacity whitespace-nowrap lg:shrink-0">
+				Get beta access
+			</a>
 		</div>
 
 		<div class="relative w-full aspect-[2/1] bg-gradient-to-br from-gray-950 to-gray-900 rounded-sm overflow-hidden group border border-border">
@@ -33,15 +33,15 @@
 				<line x1="45%" y1="45%" x2="60%" y2="40%" stroke="white" stroke-width="0.5" opacity="0.3" />
 				<defs>
 					<linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-						<stop offset="0%" style="stop-color:rgb(155,81,224);stop-opacity:0.6" />
-						<stop offset="100%" style="stop-color:rgb(155,81,224);stop-opacity:0" />
+						<stop offset="0%" style="stop-color:rgb(34,139,34);stop-opacity:0.6" />
+						<stop offset="100%" style="stop-color:rgb(34,139,34);stop-opacity:0" />
 					</linearGradient>
 					<linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
 						<stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0.4" />
-						<stop offset="100%" style="stop-color:rgb(155,81,224);stop-opacity:0.3" />
+						<stop offset="100%" style="stop-color:rgb(34,139,34);stop-opacity:0.3" />
 					</linearGradient>
 					<linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
-						<stop offset="0%" style="stop-color:rgb(155,81,224);stop-opacity:0.4" />
+						<stop offset="0%" style="stop-color:rgb(34,139,34);stop-opacity:0.4" />
 						<stop offset="100%" style="stop-color:rgb(255,255,255);stop-opacity:0.2" />
 					</linearGradient>
 				</defs>
@@ -69,3 +69,4 @@
 		</div>
 	</div>
 </section>
+
