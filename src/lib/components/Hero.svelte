@@ -61,10 +61,24 @@
 				MiniMax-M2
 			</div>
 			
-			<!-- Central Badge -->
-			<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-white/95 backdrop-blur-sm px-4 py-2 rounded-full shadow-xl border border-accent/20 flex items-center gap-2 text-xs font-mono">
-				<span class="w-2 h-2 bg-accent rounded-full animate-pulse"></span>
-				<span class="font-semibold">45ms avg latency</span>
+			<!-- Benchmark Metrics -->
+			<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex items-center gap-4 md:gap-6">
+				<div class="bg-white/95 backdrop-blur-sm px-3 py-2 rounded-lg shadow-xl border border-accent/20 flex flex-col items-center gap-1">
+					<span class="text-xl md:text-2xl font-bold text-accent">45ms</span>
+					<span class="text-[9px] md:text-[10px] text-gray-600 font-medium">Avg latency</span>
+				</div>
+				<div class="bg-white/95 backdrop-blur-sm px-3 py-2 rounded-lg shadow-xl border border-accent/20 flex flex-col items-center gap-1">
+					<span class="text-xl md:text-2xl font-bold text-accent">99.9%</span>
+					<span class="text-[9px] md:text-[10px] text-gray-600 font-medium">Uptime</span>
+				</div>
+				<div class="bg-white/95 backdrop-blur-sm px-3 py-2 rounded-lg shadow-xl border border-accent/20 flex flex-col items-center gap-1">
+					<span class="text-xl md:text-2xl font-bold text-accent">70%</span>
+					<span class="text-[9px] md:text-[10px] text-gray-600 font-medium">Cost savings</span>
+				</div>
+				<div class="bg-white/95 backdrop-blur-sm px-3 py-2 rounded-lg shadow-xl border border-accent/20 flex flex-col items-center gap-1">
+					<span class="text-xl md:text-2xl font-bold text-accent">20+</span>
+					<span class="text-[9px] md:text-[10px] text-gray-600 font-medium">Models</span>
+				</div>
 			</div>
 		</div>
 	</div>
