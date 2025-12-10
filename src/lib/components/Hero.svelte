@@ -1,7 +1,7 @@
 <section class="pt-20 pb-12 overflow-hidden">
 	<div class="container-custom">
 		<div class="mb-12 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-8">
-			<h1 class="text-4xl md:text-5xl lg:text-6xl font-medium tracking-tight max-w-3xl">
+			<h1 class="text-4xl md:text-5xl lg:text-6xl font-medium tracking-tight max-w-4xl">
 				Unified multi-model inference. Intelligent routing.
 			</h1>
 			<a href="#contact" class="inline-flex items-center justify-center px-8 py-4 bg-accent text-white rounded-lg font-medium hover:opacity-90 transition-opacity whitespace-nowrap lg:shrink-0">
